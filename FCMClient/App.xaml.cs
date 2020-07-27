@@ -14,7 +14,7 @@ namespace FCMClient
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new AppShell();
+            MainPage = new Main();
         }
 
         protected override void OnStart()
