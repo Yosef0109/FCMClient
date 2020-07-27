@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929544537359",
+    "firebase_url": "https://xamarinfcm-f5838.firebaseio.com",
+    "project_id": "xamarinfcm-f5838",
+    "storage_bucket": "xamarinfcm-f5838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929544537359:android:323bc65a0dbff6a4f8aa7a",
+        "android_client_info": {
+          "package_name": "com.xamarin.fcmexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929544537359-6lukhls2pm6s5hc1e3ne3jildsb56epg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApv1lV0vGkybwRZvciKECVDWdNTc06Uvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929544537359-6lukhls2pm6s5hc1e3ne3jildsb56epg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
